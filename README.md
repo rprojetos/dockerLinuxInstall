@@ -109,5 +109,10 @@ Server:
     For more examples and ideas, visit:
     https://docs.docker.com/get-started/
 
-## 4-Ref:
+
+## 4-Docker-compose
+Instalação:
+>$ sudo apt  install docker-compose 
+
+## 5-Ref:
 [digitalocean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-pt)
